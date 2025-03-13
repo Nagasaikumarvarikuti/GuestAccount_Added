@@ -42,3 +42,9 @@ This repository contains the Azure Logic App Test-Guest_account_added. ThisLogic
 ---
 
 ✅ **Feel free to open an issue or submit a pull request if you encounter any problems!** 😎  
+
+🚀 **Deploy Sentinel Playbook**
+
+Click the button below to deploy the **IOC Reputation Check Playbook** to Azure.
+
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%2FNagasaikumarvarikuti%2FGuestAccount%5FAdded%2Fmain%2Fazuredeploy%2Ejson)
